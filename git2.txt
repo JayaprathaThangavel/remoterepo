@@ -1,0 +1,8 @@
+git init - create repo
+git config - to configure username, email
+git add - to add the files in to the repo
+git commit - to save the changes in the repo
+git status - is to check the status of files
+git remote - is to establish connection between l and r repo
+git push - to push files from local repo to remote repo
+git pull - to pull files from remote repo to local repo
